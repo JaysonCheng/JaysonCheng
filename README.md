@@ -1,4 +1,6 @@
 ## Hi, I'm Jayson Cheng! 🙋🏻‍♂️
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram] [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][facebook]  [<img src = "https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white">][spotify]
+
 👉🏻  [CLICK HERE TO KNOW MORE ABOUT ME][website]    👈🏻
 
 ### Just About ME in This Year (2020)
@@ -43,4 +45,4 @@
 [instagram]: https://www.instagram.com/jinsengcheng/
 [linkedin]: https://www.linkedin.com/in/jin-seng-jayson-cheng
 [facebook]: https://www.facebook.com/jinseng.cheng/
-
+[spotify]: https://open.spotify.com/user/22ij6o45s56uobg6qkan2h44y?si=YxNCcV9hRxWBzkpL_FDPnQ
