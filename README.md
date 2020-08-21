@@ -38,7 +38,6 @@
 [<img align="left" alt="Jira" width="26px" src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="Intellij" width="26px" src="https://banner2.cleanpng.com/20180603/efw/kisspng-intellij-idea-integrated-development-environment-j-5b14b07dca5431.8900998115280825578288.jpg" />]()
 
 [website]: https://www.jayson-cheng.com/
 [instagram]: https://www.instagram.com/jinsengcheng/
