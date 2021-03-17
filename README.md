@@ -4,10 +4,10 @@
 👉🏻  [CLICK HERE TO KNOW MORE ABOUT ME][website]    👈🏻
 
 ### Just About ME in This Year (2020)
-- 👨🏻‍🎓 I'm currently a senior from University of Nebraska-Lincoln
-- 👨🏻‍💻 I'm currently an intern in Nelnet Bank
-- 💡 I'm currently a design studio associate at Raikes UNL
-- 💻 I'm currently practicing leetcode
+- 👨🏻‍🎓 Senior majoring in CE from University of Nebraska-Lincoln
+- 👨🏻‍💻 Software engineer intern in PaymentSpring, Nelnet
+- 💡 Design studio associate at Raikes UNL
+- 💻 Design, Develop, Code, Test, Repeat.....
 - 🥅 2020 Goals: Get a summer internship with big tech companies
 - ⚡ Fun fact: I love to play basketball and food hunt
 
