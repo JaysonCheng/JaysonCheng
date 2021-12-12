@@ -4,12 +4,11 @@
 👉🏻  [CLICK HERE TO KNOW MORE ABOUT ME][website]    👈🏻
 
 ### Just About ME in This Year (2020)
-- 👨🏻‍🎓 Senior majoring in CE from University of Nebraska-Lincoln
-- 👨🏻‍💻 Software engineer intern in PaymentSpring, Nelnet
+- 👨🏻‍💻 Software engineer at Meta
+- 👨🏻‍🎓 Computer Engineer from University of Nebraska-Lincoln
 - 💡 Design studio associate at Raikes UNL
 - 💻 Design, Develop, Code, Test, Repeat.....
-- 🥅 2020 Goals: Get a summer internship with big tech companies
-- ⚡ Fun fact: I love to play basketball and food hunt
+- ⚡ Fun fact: Food critics / lover
 
 ### Connect with me:
 
