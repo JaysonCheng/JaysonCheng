@@ -4,11 +4,11 @@
 👉🏻  [CLICK HERE TO KNOW MORE ABOUT ME][website]    👈🏻
 
 ### Just About ME in This Year (2020)
-- 👨🏻‍💻 Software engineer at Meta
-- 👨🏻‍🎓 Computer Engineer from University of Nebraska-Lincoln
-- 💡 Design studio associate at Raikes UNL
-- 💻 Design, Develop, Code, Test, Repeat.....
-- ⚡ Fun fact: Food critics / lover
+- 👨🏻‍💻  Software engineer at Meta
+- 👨🏻‍🎓  Computer Engineer from University of Nebraska-Lincoln
+- 💡  Design studio associate at Raikes UNL
+- 💻  Design, Develop, Code, Test, Repeat.....
+- ⚡  Fun fact: Food critics / lover
 
 ### Connect with me:
 
